@@ -1,0 +1,6 @@
+{
+    "apiKey": "AIzaSyC0NT17TukxEKnRse5TwzbZNthH03JR52g",
+    "authDomain": "iot-colabs.firebaseapp.com",
+    "databaseURL": "https://iot-colabs-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storageBucket": "iot-colabs.appspot.com"
+}
